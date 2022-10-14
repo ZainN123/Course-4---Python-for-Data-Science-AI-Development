@@ -6,4 +6,4 @@ In week 1 this module teaches the basics of Python and begins by exploring some 
 
 Week 2 - Python Data Structures
 
-This module begins a journey into Python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable. Next learn about dictionaries and how they function by storing data in pairs of keys and values, and end with Python sets to learn how this type of collection can appear in any order and will only contain unique element
+In week 2 this module begins a journey into Python data structures by explaining the use of lists and tuples and how they are able to store collections of data in a single variable. Next learn about dictionaries and how they function by storing data in pairs of keys and values, and end with Python sets to learn how this type of collection can appear in any order and will only contain unique element
