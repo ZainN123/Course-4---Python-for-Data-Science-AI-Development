@@ -19,3 +19,7 @@ In week 4 this module explains the basics of working with data in Python and beg
 Week 5 - APIs, and Data Collection
 
 In week 5 this module delves into the unique ways to collect data by the use of APIs and webscraping. It further explores data collection by explaining how to read and collect data when dealing with different file formats.
+
+Order of Labs
+
+1.
