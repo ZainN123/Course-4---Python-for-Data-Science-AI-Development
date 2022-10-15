@@ -22,9 +22,12 @@ In week 5 this module delves into the unique ways to collect data by the use of 
 
 Order of Labs
 
-PY0101EN-1-1-Types
-PY0101EN-1-2-Strings
-PY0101EN-2-1-Tuples
+1) PY0101EN-1-1-Types
+
+2) PY0101EN-1-2-Strings
+
+3) PY0101EN-2-1-Tuples
+
 PY0101EN-2-2-Lists
 PY0101EN-2-3-Dictionaries
 PY0101EN-2-4-Sets
