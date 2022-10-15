@@ -22,4 +22,24 @@ In week 5 this module delves into the unique ways to collect data by the use of 
 
 Order of Labs
 
-1.
+PY0101EN-1-1-Types
+PY0101EN-1-2-Strings
+PY0101EN-2-1-Tuples
+PY0101EN-2-2-Lists
+PY0101EN-2-3-Dictionaries
+PY0101EN-2-4-Sets
+PY0101EN-3-1-Conditions
+PY0101EN-3-2-Loops
+PY0101EN-3-3-Functions
+PY0101EN-3-3.2-ExceptionHandling
+PY0101EN-3-4-Classes
+PY0101EN-4-1-ReadFile
+PY0101EN-4-2-WriteFile
+Pandas Lab
+PY0101EN-5-1-Numpy1D
+PY0101EN-5-2-Numpy2D
+PY0101EN-5.1_Intro_API
+PY0101EN-5.2_API_2
+PY0101EN-5.32_WebScraping_Review_Lab
+PY0101EN-5.3_Requests_HTTP
+PY0101EN-5.4_WorkingWithDifferentFileTypes
