@@ -40,6 +40,6 @@ Order of Labs
 16) PY0101EN-5-2-Numpy2D
 17) PY0101EN-5.1_Intro_API
 18) PY0101EN-5.2_API_2
-19) PY0101EN-5.32_WebScraping_Review_Lab
-20) PY0101EN-5.3_Requests_HTTP
+19) PY0101EN-5.3_Requests_HTTP
+20) PY0101EN-5.32_WebScraping_Review_Lab
 21) PY0101EN-5.4_WorkingWithDifferentFileTypes
