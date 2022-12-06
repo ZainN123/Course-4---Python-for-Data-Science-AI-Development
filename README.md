@@ -35,11 +35,12 @@ Order of Labs
 11) PY0101EN-3-4-Classes
 12) PY0101EN-4-1-ReadFile
 13) PY0101EN-4-2-WriteFile
-14) Pandas Lab
-15) PY0101EN-5-1-Numpy1D
-16) PY0101EN-5-2-Numpy2D
-17) PY0101EN-5.1_Intro_API
-18) PY0101EN-5.2_API_2
-19) PY0101EN-5.3_Requests_HTTP
-20) PY0101EN-5.32_WebScraping_Review_Lab
-21) PY0101EN-5.4_WorkingWithDifferentFileTypes
+14) Pandas_Practice
+15) PY0101EN-4-3-LoadData
+16) PY0101EN-5-1-Numpy1D
+17) PY0101EN-5-2-Numpy2D
+18) PY0101EN-5.1_Intro_API
+19) PY0101EN-5.2_API_2
+20) PY0101EN-5.3_Requests_HTTP
+21) PY0101EN-5.32_WebScraping_Review_Lab
+22) PY0101EN-5.4_WorkingWithDifferentFileTypes
